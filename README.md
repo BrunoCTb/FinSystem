@@ -1,0 +1,2 @@
+# FinSystem
+Manage anything $$$
